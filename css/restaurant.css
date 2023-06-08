@@ -184,7 +184,7 @@
     .card{
         background-color: white;
         display: flex;
-        flex-direction: space-between;
+        justify-content: space-between;
         margin: auto;
         width: 95%;
         border-radius: 15px;
@@ -470,7 +470,7 @@
     .card{
         background-color: white;
         display: flex;
-        flex-direction: space-between;
+        justify-content: space-between;
         margin: auto;
         width: 95%;
         border-radius: 15px;
