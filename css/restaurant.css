@@ -65,17 +65,18 @@
         margin: 29px 0px 0px 5px;
     }
 
-    .bg-img {
-        height: 31vh;
+    #bg-note-enchantee{
+        height: 93vh;
         position: fixed;
         z-index: -1;
+        margin-top: -56%;
     }
 
-    #bg-note-enchantee{
-        height: 66vh;
+    #bg-delices-des-sens{
+        height: 61vh;
         position: fixed;
         z-index: -1;
-        margin-top: -56%
+        margin-top: -20%;
     }
 
     main{
@@ -336,18 +337,18 @@
         margin: 29px 0px 0px 5px;
     }
 
-    .bg-img{
-        height: 53vh;
+    #bg-note-enchantee{
+        height: 163vh;
+        position: fixed;
+        z-index: -1;
+        margin-top: -56%;
+    }
+
+    #bg-delices-des-sens{
+        height: 112vh;
         position: fixed;
         z-index: -1;
         margin-top: -23%;
-    }
-
-    #bg-note-enchantee{
-        height: 96vh;
-        position: fixed;
-        z-index: -1;
-        margin-top: -56%
     }
 
     main{
@@ -609,25 +610,25 @@ header{
     margin: 29px 0px 0px 5px;
 }
 
-/*.bg-img{
-    height: 137vh;
+#bg-palette-des-gouts{
+    height: 288vh;
     position: fixed;
     z-index: -1;
-    margin-top: -31%;
-}*/
+    margin-top: -68%;
+}
 
 #bg-note-enchantee{
-    height: 209vh;
+    height: 288vh;
     position: fixed;
     z-index: -1;
-    margin-top: -56%
+    margin-top: -68%;
 }
 
 #bg-delices-des-sens{
-    height: 144vh;
+    height: 156vh;
     position: fixed;
     z-index: -1;
-    margin-top: -56%
+    margin-top: -52%;
 }
 
 main{
