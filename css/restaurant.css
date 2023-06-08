@@ -270,7 +270,7 @@
 
 /* VERSION TABLETTE*/
 
-@media screen and (max-width:810px) and (min-width:768px) {
+@media screen and (max-width:1280px) and (min-width:768px) {
     html,body{
         margin: 0;
         padding: 0;
@@ -618,6 +618,13 @@ header{
 
 #bg-note-enchantee{
     height: 209vh;
+    position: fixed;
+    z-index: -1;
+    margin-top: -56%
+}
+
+#bg-delices-des-sens{
+    height: 144vh;
     position: fixed;
     z-index: -1;
     margin-top: -56%
