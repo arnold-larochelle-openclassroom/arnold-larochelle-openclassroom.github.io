@@ -609,12 +609,12 @@ header{
     margin: 29px 0px 0px 5px;
 }
 
-.bg-img{
+/*.bg-img{
     height: 137vh;
     position: fixed;
     z-index: -1;
     margin-top: -31%;
-}
+}*/
 
 #bg-note-enchantee{
     height: 209vh;
